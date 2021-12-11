@@ -1,6 +1,6 @@
 # grep-cheatsheet
 
-My grep cheatsheet for when I'm in vim 
+My grep cheatsheet for when I'm in `vim`: 
 
 | -i 	| grep -i ^DA demo.txt                  	| Forgets about case sensitivity                     	|
 |----	|---------------------------------------	|----------------------------------------------------	|
